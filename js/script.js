@@ -1,4 +1,4 @@
-const txtElement = ['Makhluk Tuhan', 'Yang Tercipta', 'Yang Paling Anjayyy'];
+const txtElement = ['Makhluk Tuhan', '- Yang Tercipta', '- Yang Paling Anjayyy'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
