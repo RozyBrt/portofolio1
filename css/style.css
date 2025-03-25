@@ -190,24 +190,24 @@ section h3::after{
     text-align: center;
 }
 
-.html {
-    width: 100%;
-}
-
-.css {
+.python {
     width: 90%;
 }
 
-.js {
+.dartflutter {
     width: 80%;
 }
 
 .php {
-    width: 95%;
+    width: 80%;
 }
 
-.ps {
-    width: 85%;
+.js {
+    width: 70%;
+}
+
+.editing {
+    width: 70%;
 }
 
 .col-4 {
